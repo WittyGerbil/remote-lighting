@@ -4,3 +4,5 @@ The files should be the same in both sketches.
 For each Receiver the RECEIVER_NUMBER needs to be incremented
 
 If there are more than 4 Receivers the recieverAddress needs to have more addresses added to it and RECEIVER_COUNT needs to be updated.
+
+The 2.4G library used: https://github.com/nRF24/RF24
